@@ -5,6 +5,7 @@ public class learningJDBC {
 		System.out.println("Hello JDBC.");
 		System.out.print(false);
 		System.out.print("bye");
+		System.out.print("bye");
 		
 	}
 }
